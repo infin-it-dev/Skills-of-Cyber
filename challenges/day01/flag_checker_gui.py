@@ -3,8 +3,8 @@
 import tkinter as tk
 import hashlib
 
-# Store the SHA-256 hash of the CORRECT FLAG (pre-computed)
-CORRECT_FLAG_HASH = "1e25374f802e68f5aa55492ad62be85fc2680b4e5c801f44e6a907a2c680b665"  # example: SHA-256 of 'SoC{helloworld}'
+
+CORRECT_FLAG_HASH = "1e25374f802e68f5aa55492ad62be85fc2680b4e5c801f44e6a907a2c680b665" # Example hash for "flag{example_flag}"
 
 def check_flag(user_input):
     user_input = user_input.strip()
