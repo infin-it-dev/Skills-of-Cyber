@@ -1,15 +1,30 @@
-📜 License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+# Daily Cybersecurity Challenges
 
-You are welcome to:
+Welcome to the Daily Cybersecurity Challenge Series! 🛡️  
+Each day, a new short challenge will test your skills in cryptography, forensics, OSINT, networking, and more.
 
-Use these challenges for learning, practice, or teaching.
+---
 
-Share and adapt them with proper credit.
+## 📚 How It Works
+- A new challenge is posted each day.
+- Hints may be available after 24 hours.
+- Solutions are posted separately for learning purposes.
 
-However:
+---
 
-You may not use this material for commercial purposes (selling, paid courses, etc.) without permission.
+## 📅 Challenge Topics
+- Cryptography
+- Web Exploitation
+- Open-Source Intelligence (OSINT)
+- Forensics
+- Reverse Engineering
+- And more!
 
-If you build something cool based on this project, credit is appreciated! 🚀
+---
 
+## 📜 License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to use, adapt, and share the challenges — just credit the source, and no commercial use without permission.
+
+---
