@@ -10,22 +10,17 @@ Each day, a new short challenge will test your skills in cryptography, forensics
 - A new challenge is posted each day.
 - Hints may be available after 24 hours.
 - Solutions are posted separately for learning purposes.
+- A file named ``flag_checker_gui.py`` is included with every challange and contains the correct flag, no peaking!
 
 ---
 
-
-
 ## 🎯 Flag Format
-
-
 
 All challenge answers must be submitted in the following format:
 
 ```SoC{your_answer_here}
  SoC{placeflaghere}
 ```
-
-
 
 * All lowercase letters unless otherwise specified
 * No spaces unless the challenge says otherwise
@@ -34,8 +29,6 @@ All challenge answers must be submitted in the following format:
 * EX: If the answer is "alert", submit it as `SoC{alert}`.
 
 ---
-
-
 
 ## 📅 Challenge Topics
 
